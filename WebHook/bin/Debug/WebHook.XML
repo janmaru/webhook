@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>WebHook</name></assembly>
+<members>
+<member name="P:mahamudra.it.iis.IISHelpers.httpPlatformPort">
+<summary>
+ Port specified by IIS HttpPlatformHandler
+</summary>
+</member>
+</members>
+</doc>
